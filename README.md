@@ -1,8 +1,3 @@
-
-<img src='init.png' align="left" height="200"/>
-
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-
 La Unidad de Métodos y Acceso a Datos de la Facultad de Ciencias
 Sociales se constituye como un espacio de producción, organización y
 difusión de datos y abordajes metodológicos relativos a la realidad
