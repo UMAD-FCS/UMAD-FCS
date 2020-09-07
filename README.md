@@ -23,7 +23,7 @@ Facultad de Ciencias Sociales.
 
 :pushpin: [Observatorio
 Uruguay](https://umad.cienciassociales.edu.uy/observatorio-uruguay/)  
-:pushpin: [Sistema de busqueda
+:pushpin: [Sistema de consulta
 personalizada](https://umad.cienciassociales.edu.uy/sistema-de-consulta-personalizado/)  
 :pushpin:
 [Microdatos](https://umad.cienciassociales.edu.uy/acceso-a-microdatos/)
